@@ -11513,7 +11513,7 @@ pre .code {
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  color: #fff;
+  color: #343a40;
 }
 
 .header .container {
@@ -11541,7 +11541,7 @@ pre .code {
   font-size: calc(40px + (120 - 40) * ((100vw - 300px) / (1600 - 300)));
   font-weight: bold;
   line-height: .7;
-  margin-bottom: 40px;
+  margin-bottom: 35px;
   color: inherit;
 }
 
